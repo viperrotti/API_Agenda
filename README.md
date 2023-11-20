@@ -1,6 +1,11 @@
 # API Agenda
 
-API desenvolvida em .NET C# para conexão com o banco de dados MYSQL.
+API desenvolvida em .NET C# para conexão com o banco de dados MYSQL.</br>
+Encontra-se disponível online e não necessita rodar localmente.</br>
+Link da API: http://vps44051.publiccloud.com.br:5000/swagger/index.html </br>
+
+Caso deseje rodar manualmente: clonar o repositório, abrir o terminal na pasta e rodar o comando docker compose up.</br>
+Para tanto, é necessário ter o Docker instalado na máquina.</br>
 
 Possui as funções: </br>
 GET Professor - para a construção da página de professores</br>
